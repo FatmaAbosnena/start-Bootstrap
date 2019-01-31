@@ -1,0 +1,247 @@
+.body
+{
+    font-family: 'Barlow Condensed', sans-serif !important;
+}
+
+.navbar
+{
+  background-color: transparent;  
+}
+
+.navbar .navbar-toggler
+{
+border-color:white !important;
+}
+
+.navbar-brand
+{
+    color:white!important;
+    font-weight: 500;
+    font-size: 20px;
+    padding: 15px;
+    
+}
+ 
+.navbar-nav .nav-link
+{
+    font-size: 18x;
+    color:white;  
+    
+}
+
+.home
+{
+    background-image: url(../Img/header.jpg);
+    width: 1px;
+    height: 1px;
+    background-size: 100% 100%;
+    background-position: center center;
+    text-align: center;
+    
+}
+
+.tittle
+{
+  padding-top: 165px;
+    color:white;
+}
+.tittle h2
+{
+    font-size: 30px;
+    
+}
+.tittle p
+{
+    padding-left: 20%;
+    padding-right: 20%;
+     font-size: 16px;
+    font-weight: 500; 
+    padding-top: 10px;
+}
+.line
+{
+    background-color: #2d5861 ;
+    margin:auto;
+    text-align: center;
+    width: 75%;
+    height: 2px;
+}
+ .btn1 
+{
+    padding-top: 10px;
+    
+    }
+.btn1 a
+{
+    background-color: #2d5861 !important;
+    border:#2d5861 !important;
+    border-radius:50px;
+}
+.btn1 a:hover
+{
+   background-color: white !important;
+    border:white !important;
+    color:#2d5861;
+    transition:all 2s;
+}
+
+#ABO
+{
+    padding-top: 50px;
+    text-align:center;
+    background-color: rgb(45,88,97,0.5);
+    color: white;
+    padding-bottom: 20px;
+    
+    
+}
+#ABO h2
+{
+        
+    padding-bottom: 20px;
+    
+}
+#ABO p
+{
+    font-size: 18px;
+    font-weight: 500;
+    padding-bottom: 15px;
+}
+
+ .btn2 .btn
+{
+    background-color: white !important;
+    color:#2d5861;
+    border-color: white;
+    border-radius: 50px;
+    
+}
+.btn2 .btn:hover
+{
+    background-color: #2d5861 !important;
+    color:white;
+    border-color: #2d5861;
+    transition: all 2s;
+}
+#serv
+{
+    padding-top: 50px;
+}
+#serv .s-text
+{
+    text-align: center;
+    padding-bottom: 20px;
+    color:#2d5861
+}
+.container i
+{
+    color:#2d5861;
+    text-align: center;
+    font-size: 50px;
+    padding-bottom: 15px;
+  
+}
+.container i:hover
+{
+    color: rgb(45,88,97,0.5);
+    transform: translate(20px);
+    transition: all 5s;
+   
+}
+
+.col-lg-4 
+{
+ text-align:center; 
+color:black;
+}
+  .col-lg-4  p
+{
+    color:#2d5861;
+    font-size: 18px;
+}
+
+
+#port
+{
+    background-color:rgb(45,88,97,0.1);
+    text-align: center;
+    padding-top: 20px;  
+}
+ .item
+{
+    display: none;
+}
+#port .frame .innerframe
+{
+    width: 92.2%;
+    height: 0px;
+    position: absolute;
+    z-index: 999;
+    top: 0;
+   background-color:rgb(45,88,97,0.7);
+    text-align: center;
+   overflow: hidden;
+    margin-top:20px;
+    
+    transition: all 1s;
+    
+    
+}
+#port .item
+{
+    padding-top: 20px;
+}
+
+#port .frame
+{
+    padding-bottom: 20px;
+  
+}
+
+
+#port .frame:hover .innerframe
+{
+    height:82.3%;
+}
+
+#port .frame .innerframe p
+{
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+}
+#port .frame .innerframe h2
+{
+    color: white;
+    text-align: center;
+
+}
+#cont
+{
+    padding-top: 50px;
+    text-align: center;
+    
+}
+#cont h2
+{
+        padding-top: 50px;
+    font-size: 35px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+     font-weight: 500;
+}
+#cont p
+{
+    font-size: 18x;
+    padding-top: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+    font-weight: 300;
+    color: #2d5861;
+    padding-bottom: 20px;
+}
+cont .container
+{
+    background-color: aqua;
+}
+
